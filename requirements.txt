@@ -1,1 +1,3 @@
-pip install yfinance matplotlib pandas
+yfinance
+matplotlib
+pandas
